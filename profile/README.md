@@ -5,7 +5,7 @@
     <h2 align="center">FindPets</h2>
     <p align="center">
         <br />
-        <a href="https://github.com/Peel-Organisation"><strong>Explore repositories »</strong></a>
+        <a href="https://github.com/FindPets-Organisation"><strong>Explore repositories »</strong></a>
         <br />
         <br />
         <a href="https://github.com/FindPets-Organisation/FindPets_APP">View App</a>
