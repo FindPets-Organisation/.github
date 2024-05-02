@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/KevOneRedOne/FindPets">
-        <img src="/Design/logo/FindPets.png" alt="Logo" width="80" height="80">
+        <img src="/assets/images/FindPets.png" alt="Logo" width="80" height="80">
     </a>
     <h2 align="center">FindPets</h2>
 </div>
@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://github.com/KevOneRedOne/FindPets">
-        <img src="/Design/OnePage/OnePage.png" alt="Logo">
+        <img src="/assets/images/OnePage.png" alt="Logo">
     </a>
 </div>
 
